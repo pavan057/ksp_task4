@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(157, 90, 161);
+}
+#relcolor
+{
+    color: blue;
+}
+#nameselector{
+    color: rgb(255, 0, 0);
+}
+li{
+    color: rgb(135, 255, 80);
+}
+#h2color{
+    color: darkviolet;
+}
